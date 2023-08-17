@@ -1,9 +1,10 @@
 ---
-title: 配置Git SSH
+title: Windows 生成及配置 GitHub SSH
 comments: true
 categories:
-- SSH
+- SSH 
 tags:
+- GitHub
 - Git
 - SSH
 ---
